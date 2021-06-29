@@ -45,6 +45,9 @@ body {
   background-repeat: repeat-x;
   animation: slideright 600s infinite linear;
   -webkit-animation: slideright 600s infinite linear;
-  width: 100%;
+  width: 800%;
   height: 200px;
+  justify-content: center;
+  align-items: center;
+  border: 5px 5% rgb(97, 97, 97);
 } 

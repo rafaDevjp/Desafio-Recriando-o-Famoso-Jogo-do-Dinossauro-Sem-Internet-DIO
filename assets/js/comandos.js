@@ -42,7 +42,7 @@ function jump() {
 //Function criação do Cactus malvado inimigo do dinossauro bonzinho :)
 function createCactus() {
     const cactus = document.createElement('div'); //Objeto em HTML (div) criado com a classe cactus
-    let cactusPosition = 1000;
+    let cactusPosition = 1000;    
     let randomTime = Math.random() * 6000;
 
     console.log(randomTime) ;
@@ -70,7 +70,7 @@ function createCactus() {
             cactus.style.left = cactusPosition + 'px'
         }
 
-    }, 40)
+    }, 20)
 
     setTimeout(createCactus, randomTime)
 }

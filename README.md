@@ -1,7 +1,5 @@
-# Dio Dino Game 
-Dino game for Digital Innovation One Lesson, using only JS, HTML and CSS
+# Recriando o Famoso Jogo do Dinossauro Sem Internet
 
-![screenshot](example.png?raw=true "screenshot")
 
-# License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Este projeto faz parte do BootCamp Game-Development com JavaScript da paltaforma Digital Innovation One. A ideia é recriar o joguinho bastatnte conhecido dos usuários do browser do google (google Chrome) As aulas foram ministradas pelo Professor Celson Henrrique, onde focamos na aplicação com funções em javaScript, HTML5 e CSS3.
+
